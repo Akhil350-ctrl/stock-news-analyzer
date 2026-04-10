@@ -12,3 +12,9 @@ This project analyzes stock market news headlines and provides sentiment insight
 ## Status
 🚀 Actively developing
 Update: Improving sentiment analysis logic
+## How It Works
+This tool uses simple keyword-based sentiment analysis to classify stock news as positive, negative, or neutral.
+
+## Tech Used
+- Python
+- Basic NLP logic
