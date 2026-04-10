@@ -11,3 +11,4 @@ This project analyzes stock market news headlines and provides sentiment insight
 
 ## Status
 🚀 Actively developing
+Update: Improving sentiment analysis logic
